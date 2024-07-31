@@ -1,0 +1,3 @@
+[submodule "EigenExa"]
+	path = EigenExa
+	url = https://github.com/RIKEN-RCCS/EigenExa.git
